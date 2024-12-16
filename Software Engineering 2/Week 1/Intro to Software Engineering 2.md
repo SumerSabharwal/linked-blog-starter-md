@@ -1,0 +1,98 @@
+
+- [[#What are projects?|What are projects?]]
+- [[#Characteristics of Projects|Characteristics of Projects]]
+- [[#Projects vs Operations|Projects vs Operations]]
+- [[#Essence and Accidents|Essence and Accidents]]
+	- [[#Essence and Accidents#Essence|Essence]]
+	- [[#Essence and Accidents#Accident|Accident]]
+
+
+## What are projects?
+
+"A project is a **temporary** endeavour undertaken to create a **unique** product, service or result."
+## Characteristics of Projects
+
+- Unique, one time set of events
+- Mixed elements
+	- **Quality**
+	- **Cost**
+	- **Time**
+	- **Scope**
+	- **Resources (All about trade offs)**
+- Life Cycle (finite deadline)
+- Limited resources/budget
+- Resources/People throughout the organization and external
+- Goal Oriented (specific)
+- Numerous, sequenced activities that need planning
+- Transient Resources i.e. not stable
+- Produce change in organisations
+
+## Projects vs Operations
+
+| **Projects** (e.g. Dam) | **Operations** (e.g. producing baked beans) |
+| ----------------------- | ------------------------------------------- |
+| Unique                  | Repetitive                                  |
+| FInite                  | Eternal                                     |
+| Disequilibrium          | Equilibrium                                 |
+| Unbalanced Objectives   | Balanced Objectives                         |
+| Transient Resources     | Stable Resources                            |
+
+There are also endeavours that can be classified into both categories:
+
+- Ship building
+- Building Houses
+
+## Essence and Accidents
+
+### Essence
+
+**Difficulties in development inherent in the nature of software**
+
+- Complexity - most complex piece of engineering per pound
+- Flexibility - can be changed once developed
+- Invisibility - unvisualisable i.e. progress is not always visible
+	- If you build a bridge you can see it being built unlike software
+- Many Solutions - lots of ways to solve a problem
+
+### Accident 
+
+**Difficulties affecting production that are not inherent**
+
+- High-level languages - at a certain point the elaboration of coding languages increases the intellectual task of the user
+- Software integration - different platforms, version changes etc.
+- Conformity - arbitrary complexities forced by institutions - industry standards
+- Future unknowns - what could happen?
+	- Bridge can at worst face a hurricane or tsunamis
+	- Not predictable for software
+- Process is ongoing and unclear
+	- When does it end and how to do it
+- Expertise lacking 
+	- More people can code than build a bridge
+
+## Software Engineering
+
+"Software engineering is the application of **engineering**
+to the **development of software** in a **systematic** method."
+
+![[Pasted image 20241216141646.png]]
+
+Note than only 10% of people work on the Project Management Processes
+
+### Project management processes
+
+![[Pasted image 20241216141753.png]]
+
+## Software Life Cycle (SLC)
+
+![[Pasted image 20241216141828.png]]
+
+1. Analysis/Synthesis - e.g. prototyping approach
+2. Synthesis/Operation - e.g. incremental delivery
+3. Operation/Retirement - e.g. phase out
+
+## Software Development Life Cycle (SDLC)
+
+![[Pasted image 20241216142120.png]]
+
+Very generic model for software development. 
+
