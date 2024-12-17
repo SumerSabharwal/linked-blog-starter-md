@@ -123,31 +123,31 @@ Issues with this model:
 
 Advantages of this model:
 
-- Encourages one to specify what the system will do first.
-- Encourages planning of the system
-- Project managers can track progress (more progress visibility)
+- Encourages one to specify **what the system will do first.**
+- Encourages **planning** of the system
+- Project managers can **track progress** (more progress visibility)
 	- Allows better spotting of errors
-- Documents must be produced with this model
+- **Documents** must be produced with this model
 	- Can be used for evaluation and testing of the system
-- All of the above reduce development and maintenance costs
+- All of the above **reduce development and maintenance costs**
 
 ## Bespoke v COTS
 
 ### Bespoke
 
-- Development from scratch or modify existing system.
-- Tricky to maintain and risky to develop compared to COTS
+- Development **from scratch** or modify existing system.
+- **Tricky to maintain** and **risky** to develop compared to COTS
 - Could be for wider market or single customer
 
 ### COTS (Commercial Off-The-Shelf)
 
-- Pre-built solution for a broader market with predictable costs and faster implementation.
-- Easier to maintain with vendor support, updates, and documentation.
-- Limited flexibility for unique requirements compared to bespoke systems.
+- **Pre-built** solution for a broader market with predictable costs and **faster implementation.**
+- **Easier to maintain** with vendor support, updates, and documentation.
+- **Limited flexibility** for unique requirements compared to bespoke systems.
 
 ## Techniques
 
-Things that are used in development stages to support a stage
+**Things that are used in development stages to support a stage**
 
 Examples:
 ### Requirements Stage
@@ -166,13 +166,13 @@ Examples:
 
 ## Tools
 
-Software tools to support the development of software
+**Software tools to support the development of software**
 
 IDEs, Testing tools, debugging tools, Trello, Wrike, Task World
 
 ## Methods
 
-Vague term but generally cover how things should be done over several stages 
+**Vague term but generally cover how things should be done over several stages** 
 
 • team size and structure
 • which overarching model to use
