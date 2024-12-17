@@ -112,4 +112,9 @@ Very generic model for software development.
 ![[Pasted image 20241217165415.png]]
 
 - Earliest model in developing software
-- Extreme overlap in analysis, synthesis a
+- Extreme overlap in analysis, synthesis and operation
+- No formal specification or requirements analysis
+
+Issues with this model:
+
+
