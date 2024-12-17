@@ -1,24 +1,4 @@
 
-- [[#What are projects?|What are projects?]]
-- [[#Characteristics of Projects|Characteristics of Projects]]
-- [[#Projects vs Operations|Projects vs Operations]]
-- [[#Essence and Accidents|Essence and Accidents]]
-	- [[#Essence and Accidents#Essence|Essence]]
-	- [[#Essence and Accidents#Accident|Accident]]
-- [[#Software Engineering|Software Engineering]]
-	- [[#Software Engineering#Project management processes|Project management processes]]
-- [[#Software Life Cycle (SLC)|Software Life Cycle (SLC)]]
-- [[#Software development models|Software development models]]
-	- [[#Software development models#Software Development Life Cycle (SDLC)|Software Development Life Cycle (SDLC)]]
-	- [[#Software development models#Build and Fix / Code and Fix Model|Build and Fix / Code and Fix Model]]
-	- [[#Software development models#Stage Wise Model|Stage Wise Model]]
-- [[#Bespoke v COTS|Bespoke v COTS]]
-	- [[#Bespoke v COTS#Bespoke|Bespoke]]
-	- [[#Bespoke v COTS#COTS (Commercial Off-The-Shelf)|COTS (Commercial Off-The-Shelf)]]
-- [[#Techniques|Techniques]]
-	- [[#Techniques#Requirements Stage|Requirements Stage]]
-	- [[#Techniques#Design Stage|Design Stage]]
-- [[#Tools|Tools]]
 
 
 ## What are projects?
@@ -187,4 +167,19 @@ Examples:
 ## Tools
 
 Software tools to support the development of software
+
+IDEs, Testing tools, debugging tools, Trello, Wrike, Task World
+
+## Methods
+
+Vague term but generally cover how things should be done over several stages 
+
+• team size and structure
+• which overarching model to use
+• user involvement
+• techniques to use
+• documentation to produce, etc.
+
+Examples:
+
 
