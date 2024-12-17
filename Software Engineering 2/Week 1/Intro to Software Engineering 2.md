@@ -127,3 +127,10 @@ Unidirectional/sequenced development. Still a naïve process like Build and Fix.
 
 ![[Pasted image 20241217170234.png]]
 
+Advantages of this model:
+
+- Encourages one to specify what the system will do first.
+- Encourages planning of the system
+- Project managers can track progress (more progress visibility)
+	- Allows better spotting of errors
+- 
