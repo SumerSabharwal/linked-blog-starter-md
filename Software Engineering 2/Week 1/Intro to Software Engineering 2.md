@@ -145,6 +145,10 @@ Advantages of this model:
 
 ![[Pasted image 20241217180824.png]]
 
+## V Process Model
+
+![[Pasted image 20241217180930.png]]
+
 
 
 
