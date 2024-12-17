@@ -119,7 +119,11 @@ Issues with this model:
 
 - Structure degrades after multiple fix cycles
 - User requirements are usually not met
-- Costly mountainous due to poor structure
+- Costly maintenance due to poor structure
 
+### Stage Wise Model
 
+Unidirectional/sequenced development. Still a naïve process like Build and Fix.
+
+![[Pasted image 20241217170234.png]]
 
