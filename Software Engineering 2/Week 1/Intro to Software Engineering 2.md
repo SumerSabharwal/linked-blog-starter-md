@@ -145,5 +145,19 @@ Advantages of this model:
 - Tricky to maintain and risky to develop compared to COTS
 - Could be for wider market or single customer
 
-COTS
+### COTS (Commercial Off-The-Shelf)
 
+- Pre-built solution for a broader market with predictable costs and faster implementation.
+- Easier to maintain with vendor support, updates, and documentation.
+- Limited flexibility for unique requirements compared to bespoke systems.
+
+## Techniques
+
+Things that are used in development stages to support a stage
+
+Examples:
+
+- Requirements stage
+	- Soft systems
+	- DFDs
+	- 
