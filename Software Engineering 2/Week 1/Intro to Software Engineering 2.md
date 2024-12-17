@@ -140,7 +140,12 @@ Advantages of this model:
 ![[Pasted image 20241217172252.png]]
 
 - Simple model, activities are done sequentially
-- Extremely un
+- Extremely unpopular; only 10% like it
+
+
+![[Pasted image 20241217180824.png]]
+
+
 
 
 
