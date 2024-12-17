@@ -92,14 +92,14 @@ Note than only 10% of people work on the Project Management Processes
 
 ## Software development models
 
-How the overall software development process is to be performed? What happens in the stages and between them?
+How the overall software development process is to be performed? What happens in **the stages and between them**?
 
 Advantages for using models:
 
 - Division of one big problem into smaller problems
 - Provides progress visibility
 - Supports planning and control of resources
-- Imrpoves estom
+- Improves estimation of cost and time
 
 ### Software Development Life Cycle (SDLC)
 
@@ -107,3 +107,9 @@ Advantages for using models:
 
 Very generic model for software development. 
 
+### Build and Fix / Code and Fix Model
+
+![[Pasted image 20241217165415.png]]
+
+- Earliest model in developing software
+- Extreme overlap in analysis, synthesis a
