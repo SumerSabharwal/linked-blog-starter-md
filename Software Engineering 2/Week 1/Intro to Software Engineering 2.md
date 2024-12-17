@@ -1,5 +1,28 @@
 
-
+- [[#What are projects?|What are projects?]]
+- [[#Characteristics of Projects|Characteristics of Projects]]
+- [[#Projects vs Operations|Projects vs Operations]]
+- [[#Essence and Accidents|Essence and Accidents]]
+	- [[#Essence and Accidents#Essence|Essence]]
+	- [[#Essence and Accidents#Accident|Accident]]
+- [[#Software Engineering|Software Engineering]]
+	- [[#Software Engineering#Project management processes|Project management processes]]
+- [[#Software Life Cycle (SLC)|Software Life Cycle (SLC)]]
+- [[#Software development models|Software development models]]
+	- [[#Software development models#Software Development Life Cycle (SDLC)|Software Development Life Cycle (SDLC)]]
+	- [[#Software development models#Build and Fix / Code and Fix Model|Build and Fix / Code and Fix Model]]
+	- [[#Software development models#Stage Wise Model|Stage Wise Model]]
+	- [[#Software development models#Overview of a stage wise approach|Overview of a stage wise approach]]
+	- [[#Software development models#Classical Waterfall Model|Classical Waterfall Model]]
+	- [[#Software development models#V Process Model|V Process Model]]
+- [[#Bespoke v COTS|Bespoke v COTS]]
+	- [[#Bespoke v COTS#Bespoke|Bespoke]]
+	- [[#Bespoke v COTS#COTS (Commercial Off-The-Shelf)|COTS (Commercial Off-The-Shelf)]]
+- [[#Techniques|Techniques]]
+	- [[#Techniques#Requirements Stage|Requirements Stage]]
+	- [[#Techniques#Design Stage|Design Stage]]
+- [[#Tools|Tools]]
+- [[#Methods|Methods]]
 
 ## What are projects?
 
@@ -131,11 +154,11 @@ Advantages of this model:
 	- Can be used for evaluation and testing of the system
 - All of the above **reduce development and maintenance costs**
 
-## Overview of a stage wise approach
+### Overview of a stage wise approach
 
 ![[Pasted image 20241217172110.png]]
 
-## Classical Waterfall Model
+### Classical Waterfall Model
 
 ![[Pasted image 20241217172252.png]]
 
@@ -143,7 +166,7 @@ Advantages of this model:
 - Extremely unpopular; only 10% like it
 
 ![[Pasted image 20241217180824.png]]
-## V Process Model
+### V Process Model
 
 ![[Pasted image 20241217180930.png]]
 
