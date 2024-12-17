@@ -150,7 +150,8 @@ Advantages of this model:
 ![[Pasted image 20241217180930.png]]
 
 
-
+- Refined version of waterfall model
+- Emphasises connection between earlier and 
 
 
 ## Bespoke v COTS
