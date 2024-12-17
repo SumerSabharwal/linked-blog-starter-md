@@ -117,4 +117,9 @@ Very generic model for software development.
 
 Issues with this model:
 
+- Structure degrades after multiple fix cycles
+- User requirements are usually not met
+- Costly mountainous due to poor structure
+
+
 
