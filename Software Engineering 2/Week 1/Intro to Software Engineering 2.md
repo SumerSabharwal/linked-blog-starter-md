@@ -90,10 +90,10 @@ How the overall software development process is to be performed? What happens in
 
 Advantages for using models:
 
-- Division of one big problem into smaller problems
-- Provides progress visibility
-- Supports planning and control of resources
-- Improves estimation of cost and time
+- **Division** of one big problem into smaller problems
+- Provides **progress visibility**
+- Supports **planning and control of resources**
+- **Improves estimation** of cost and time
 
 ### Software Development Life Cycle (SDLC)
 
@@ -106,18 +106,18 @@ Very generic model for software development.
 ![[Pasted image 20241217165415.png]]
 
 - Earliest model in developing software
-- Extreme overlap in analysis, synthesis and operation
-- No formal specification or requirements analysis
+- **Extreme overlap** in analysis, synthesis and operation
+- **No formal specification** or requirements analysis
 
 Issues with this model:
 
-- Structure degrades after multiple fix cycles
+- **Structure degrades** after multiple fix cycles
 - User requirements are usually not met
-- Costly maintenance due to poor structure
+- **Costly maintenance** due to poor structure
 
 ### Stage Wise Model
 
-Unidirectional/sequenced development. Still a naïve process like Build and Fix.
+**Unidirectional**/sequenced development. Still a naïve process like Build and Fix.
 
 ![[Pasted image 20241217170234.png]]
 
@@ -181,5 +181,15 @@ Vague term but generally cover how things should be done over several stages
 • documentation to produce, etc.
 
 Examples:
+
+- Proprietary:
+	- LSDM
+	- Navigator
+	- Method1
+- Public Domain
+	- SSDM
+	- Scrum (Agile)
+- Home tailored
+	- Water Scrum Fall
 
 
