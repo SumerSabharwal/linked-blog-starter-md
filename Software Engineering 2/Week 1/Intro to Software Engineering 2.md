@@ -142,16 +142,18 @@ Advantages of this model:
 - Simple model, activities are done sequentially
 - Extremely unpopular; only 10% like it
 
-
 ![[Pasted image 20241217180824.png]]
-
 ## V Process Model
 
 ![[Pasted image 20241217180930.png]]
 
 
 - Refined version of waterfall model
-- Emphasises connection between earlier and 
+- Emphasises connection between earlier and latter stages
+	- validating with respect to outcomes of earlier stages; not just the current stage's output
+- Model shows **problems found on RHS can be fixed by redoing LHS**
+- 
+
 
 
 ## Bespoke v COTS
