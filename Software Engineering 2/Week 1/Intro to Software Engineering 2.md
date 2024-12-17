@@ -141,4 +141,9 @@ Advantages of this model:
 
 ### Bespoke
 
-Development from scratch 
+- Development from scratch or modify existing system.
+- Tricky to maintain and risky to develop compared to COTS
+- Could be for wider market or single customer
+
+COTS
+
