@@ -157,7 +157,16 @@ Things that are used in development stages to support a stage
 
 Examples:
 
-- Requirements stage
-	- Soft systems
-	- DFDs
-	- 
+### Requirements Stage
+
+- Soft Systems: Analysing complex, human-centered problems.
+- DFDs: Visualizing data flow and processes.
+- Rich Pictures: Holistic diagrams of the problem.
+- Hard Systems: Structured approach for clear, defined problems.
+- Structure Charts: Hierarchical breakdown of system modules.
+
+### Design Stage
+
+- JSD (): Process-driven system design.
+- OOD: Object-based modular system design.
+
