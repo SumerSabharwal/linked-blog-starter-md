@@ -5,6 +5,20 @@
 - [[#Essence and Accidents|Essence and Accidents]]
 	- [[#Essence and Accidents#Essence|Essence]]
 	- [[#Essence and Accidents#Accident|Accident]]
+- [[#Software Engineering|Software Engineering]]
+	- [[#Software Engineering#Project management processes|Project management processes]]
+- [[#Software Life Cycle (SLC)|Software Life Cycle (SLC)]]
+- [[#Software development models|Software development models]]
+	- [[#Software development models#Software Development Life Cycle (SDLC)|Software Development Life Cycle (SDLC)]]
+	- [[#Software development models#Build and Fix / Code and Fix Model|Build and Fix / Code and Fix Model]]
+	- [[#Software development models#Stage Wise Model|Stage Wise Model]]
+- [[#Bespoke v COTS|Bespoke v COTS]]
+	- [[#Bespoke v COTS#Bespoke|Bespoke]]
+	- [[#Bespoke v COTS#COTS (Commercial Off-The-Shelf)|COTS (Commercial Off-The-Shelf)]]
+- [[#Techniques|Techniques]]
+	- [[#Techniques#Requirements Stage|Requirements Stage]]
+	- [[#Techniques#Design Stage|Design Stage]]
+- [[#Tools|Tools]]
 
 
 ## What are projects?
@@ -156,17 +170,21 @@ Advantages of this model:
 Things that are used in development stages to support a stage
 
 Examples:
-
 ### Requirements Stage
 
-- Soft Systems: Analysing complex, human-centered problems.
-- DFDs: Visualizing data flow and processes.
+- Soft Systems: Analysing complex, human-centred problems.
+- DFDs (Data Flow diagrams): Visualizing data flow and processes.
 - Rich Pictures: Holistic diagrams of the problem.
 - Hard Systems: Structured approach for clear, defined problems.
 - Structure Charts: Hierarchical breakdown of system modules.
+- UML Diagrams
 
 ### Design Stage
 
-- JSD (): Process-driven system design.
-- OOD: Object-based modular system design.
+- JSD (Jackson system development): Process-driven system design.
+- OOD (Object oriented design): Object-based modular system design.
+
+## Tools
+
+Software tools to support the development of software
 
