@@ -133,4 +133,12 @@ Advantages of this model:
 - Encourages planning of the system
 - Project managers can track progress (more progress visibility)
 	- Allows better spotting of errors
-- 
+- Documents must be produced with this model
+	- Can be used for evaluation and testing of the system
+- All of the above reduce development and maintenance costs
+
+## Bespoke v COTS
+
+### Bespoke
+
+Development from scratch 
