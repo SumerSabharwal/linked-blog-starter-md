@@ -6,3 +6,4 @@
 ![[Pasted image 20241217172252.png]]
 
 Simple model, activities are done sequentially
+
