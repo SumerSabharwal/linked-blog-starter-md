@@ -148,13 +148,13 @@ Advantages of this model:
 ![[Pasted image 20241217180930.png]]
 
 
-- Refined version of waterfall model
+- **Refined version** of waterfall model
 - Emphasises connection between earlier and latter stages
-	- validating with respect to outcomes of earlier stages; not just the current stage's output
+	- **validating with respect to outcomes of earlier stages; not just the current stage's output**
 - Model shows **problems found on RHS can be fixed by redoing LHS**
-- 
-
-
+	- Waterfall focuses on activities
+	- V Model focuses on outputs and correctness
+- Outputs form inputs to the next stage
 
 ## Bespoke v COTS
 
