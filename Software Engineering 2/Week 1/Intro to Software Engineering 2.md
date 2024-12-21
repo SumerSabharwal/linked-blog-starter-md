@@ -1,4 +1,6 @@
 
+### Table of contents
+
 - [[#What are projects?|What are projects?]]
 - [[#Characteristics of Projects|Characteristics of Projects]]
 - [[#Projects vs Operations|Projects vs Operations]]
