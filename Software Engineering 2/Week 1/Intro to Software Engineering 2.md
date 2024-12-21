@@ -30,7 +30,6 @@
 
 > [!QUOTE] Projects
 > "A project is a **temporary** endeavour undertaken to create a **unique** product, service or result."
-
 ## Characteristics of Projects
 
 - Unique, one time set of events
