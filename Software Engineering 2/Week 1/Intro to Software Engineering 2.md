@@ -172,7 +172,6 @@ Advantages of this model:
 
 ![[Pasted image 20241217180930.png]]
 
-
 - **Refined version** of waterfall model
 - Emphasises connection between earlier and latter stages
 	- **validating with respect to outcomes of earlier stages; not just the current stage's output**
